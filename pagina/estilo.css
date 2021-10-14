@@ -1,0 +1,115 @@
+body {
+    margin: 0;
+    padding-bottom: 0%;
+}
+
+h1 {
+    margin: 0px;
+    text-align: center;
+    background-color: #21022d;
+    color: white;
+
+}
+
+
+#paragrafoTOPO{
+    padding: 8px;
+    margin: 0%;
+}
+
+
+#endereco{
+    padding: 8px;
+    margin: 0%;
+    border: 0px;
+}
+
+
+#Cabecalhocima{
+    padding: 0px;
+    margin: 0%;
+    border: 0px;
+    text-align: center;
+    color: white;
+    background-color: #21022d;
+}
+
+
+
+
+#Cabecalhocima1{
+    padding: 0px;
+    margin: 0%;
+    border: 0px;
+    text-align: center;
+    color: white;
+    background-color: #21022d;
+}
+
+
+
+
+
+
+
+.container{
+    background-color: #e2d8e7;
+    margin: 24px;
+    color: #21022d;
+    padding-left: 0px;
+    
+}
+.container2{
+
+    background-color: #e2d8e7;
+    margin: 0px;
+    color: #21022d;
+    padding-left: 80px;
+    padding-top: 32px;
+
+}
+
+
+.cardapio{
+    padding-top: 16px;
+    padding-left: 16px;
+    margin: 0px;
+}
+
+
+
+
+#zerolactose {
+    text-align: center;
+    color: #21022d;
+    margin-top: 64px;
+    margin-bottom: 32px;
+}
+
+
+h3{
+    margin-top: 0%;
+    padding-top: 32px;
+}
+
+#abacate {
+    margin-top: 0%;
+    padding-top: 0px;
+}
+
+
+
+
+
+#imgfinal {
+    display: block;
+    width: 600px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+}
